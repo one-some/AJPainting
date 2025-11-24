@@ -1,4 +1,6 @@
 # AJPainting
+<img src="paintoing.png" width="500">
+
 Convert between .ajart and .png files.
 
 ## Warning
